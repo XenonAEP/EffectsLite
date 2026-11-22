@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-22",
+      "title": "First release",
+      "notes": [
+        "SFX and Overlays browsers with instant search, previews and one-click insert",
+        "Custom folders: create, rename, delete, import files or whole folders",
+        "Favorite any folder and find it again on Home",
+        "Your content and settings live outside the extension and survive updates"
+      ]
+    }
+  ]
+}
