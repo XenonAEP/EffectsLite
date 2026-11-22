@@ -49,4 +49,3 @@ EffectsLite is a lightweight CEP panel extension for Adobe After Effects (2024+)
 
 ## License & Open Source
 This project is **open source on GitHub**. Feel free to fork, and share just credit me: XenonAEP
-  Mostly Vibcoded just need a quick extension that isant blocked by a paywall
